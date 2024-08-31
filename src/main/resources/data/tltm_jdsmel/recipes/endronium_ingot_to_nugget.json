@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tltm_jdsmel:endronium_ingot"
+    }
+  ],
+  "result": {
+    "item": "tltm_jdsmel:pure_endronium_nugget",
+    "count": 3
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tltm_jdsmel:pure_endronium_nugget"
+    }
+  },
+  "result": {
+    "item": "tltm_jdsmel:endronium_ingot",
+    "count": 1
+  }
+}

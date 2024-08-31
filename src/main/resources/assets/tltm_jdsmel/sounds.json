@@ -1,0 +1,17 @@
+{
+  "recluse_spawns": {
+    "category": "hostile",
+    "subtitle": "tltm_jdsmel.subtitle.recluseSpawns",
+    "sounds": [
+      "tltm_jdsmel:recluse_spawns"
+    ]
+  },
+
+  "recluse_curse": {
+    "category": "hostile",
+    "subtitle:": "tltm_jdsmel.subtitle.recluseCurse",
+    "sounds": [
+      "tltm_jdsmel:recluse_curse"
+    ]
+  }
+}

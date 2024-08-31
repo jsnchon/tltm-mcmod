@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " i ",
+    "FFF"
+  ],
+  "key": {
+    "#": {
+      "item": "tltm_jdsmel:endronium_ingot"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "F": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "tltm_jdsmel:advanced_bolt",
+    "count": 16
+  }
+}

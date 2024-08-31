@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tltm_jdsmel:endronium_block"
+    }
+  ],
+  "result": {
+    "item": "tltm_jdsmel:endronium_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "tltm_jdsmel:impure_endronium_nugget"
+  },
+  "result": "tltm_jdsmel:pure_endronium_nugget",
+    "count": 1
+}

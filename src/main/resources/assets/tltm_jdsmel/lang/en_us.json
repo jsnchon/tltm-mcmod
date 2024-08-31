@@ -1,0 +1,24 @@
+{
+  "item.tltm_jdsmel.advanced_bolt": "Advanced Bolt",
+  "item.tltm_jdsmel.impure_endronium_nugget": "Impure Endronium Nugget",
+  "item.tltm_jdsmel.endronium_ingot": "Endronium Ingot",
+  "item.tltm_jdsmel.pure_endronium_nugget": "Pure Endronium Nugget",
+  "item.tltm_jdsmel.endronium_apple": "Endronium Apple",
+  "item.tltm_jdsmel.tltm_debug_stick": "TLTM Debug Stick",
+  "item.tltm_jdsmel.recluse_heart": "Heart of the Recluse",
+  "item.tltm_jdsmel.recluse_eye": "Eye of the Recluse",
+  "item.tltm_jdsmel.recluse_soul": "Soul of the Recluse",
+
+  "block.tltm_jdsmel.endronium_block": "Block of Endronium",
+  "block.tltm_jdsmel.veinous_end_stone": "Veinous End Stone",
+
+  "tltm_jdsmel.potion.bleeding": "Bleeding",
+  "death.attack.bleeding": "%1$s bled out",
+
+  "entity.tltm_jdsmel.recluse": "Recluse",
+
+  "tltm_jdsmel.subtitle.recluseSpawns": "Recluse is summoned",
+  "tltm_jdsmel:recluse_spawns": "Recluse Spawns",
+  "tltm_jdsmel.subtitle.recluseCurse": "Recluse curses you",
+  "tltm_jdsmel:curse": "Recluse Curse"
+}
